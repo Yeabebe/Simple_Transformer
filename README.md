@@ -19,7 +19,7 @@ This repository contains a clean and minimal implementation of a **decoder-only 
 ## 📁 Structure
 ```
 .
-├── transformer_decoder.ipynb # Jupyter notebook with full model code
+├── transformerDecoder.ipynb # Jupyter notebook with full model code
 ├── README.md # This file
 ```
 ---
