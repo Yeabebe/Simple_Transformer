@@ -69,6 +69,10 @@ output = generate_text(model, start, max_new_tokens=20, device=device)
 
 print(output.tolist())
 ```
+## Transformer Architecture 
+<img width="1024" height="1536" alt="ChatGPT Image Aug 16, 2025, 04_27_32 PM" src="https://github.com/user-attachments/assets/fa5dc4c0-437b-45ec-a8e0-94ff5402eb06" />
+
+
 ## Notes
 - Model starts with random weights; training is required for meaningful text generation.
 - You can extend the notebook with better sampling methods (top-k, nucleus sampling).
