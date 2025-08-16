@@ -22,6 +22,7 @@ It includes data loading from the Penn Treebank dataset, a full training loop wi
 ## 📁 Structure
 ```
 .
+├── dataset
 ├── transformerDecoder.ipynb # Jupyter notebook with full model code
 ├── README.md # This file
 ```
